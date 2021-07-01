@@ -5,6 +5,10 @@ A Helm chart to install Cluster API manifests
 
 *Note: Currently the chart install a targer cluster in AWS. However it is intended to incude the support for other Cluster API providers.*
 
+## Resources
+https://medium.com/condenastengineering/clusterapi-a-guide-on-how-to-get-started-ff9a81262945
+https://medium.com/swlh/clusterops-manage-your-kubernetes-clusters-with-gitops-ac5622f11ac6
+https://medium.com/swlh/clusterops-1-line-commit-to-upgrade-your-kubernetes-clusters-de3548124d04
 
 ## Installing the Chart using ArgoCD
 
